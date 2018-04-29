@@ -1,0 +1,14 @@
+PT/BR
+PROJETO CONWAY GAME OF LIFE:
+	1)Feito por Abrãao Vitor Lopes Dantas e Giovanne da Silva Santos.
+	2)Para compilá-lo,deve se estar na pasta root do projeto e digitar "make".
+	3)Para executá-lo,deve-se entrar na pasta bin/ e digitar "./life <nome_de_entrada> <nome_da_saída>" .
+	4)Devido ao tempo, análises mais profundas sobre vazamento de memória ficarão por serem feitas.
+  
+
+EN/US
+CONWAY GAME OF LIFE PROJECT:
+	1)Made by Abrãao Vitor Lopes Dantas e Giovanne da Silva Santos.
+	2)To compile it, it must be in the folder src and type "make".
+	3)To execute it, you must get into bin/ folder and type "./life <input_name> <output_name>'".
+	$)Due the time for implementation, deeper analysis about memory leak were not made.
